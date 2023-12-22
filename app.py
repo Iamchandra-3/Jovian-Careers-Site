@@ -8,8 +8,8 @@ JOBS = [
 
     'id': 1,
     'title': 'Python Developer',
-    'location': 'New York',
-    'salary': '$100,000'
+    'location': 'Benguluru, India',
+    'salary': 'Rs 1,000,000'
 },
   {
     'id': 2,
